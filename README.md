@@ -20,3 +20,5 @@ This is a demonstration of a Moodle block plugin that adds functionality to the 
 5. The block will be added to the course page.
 6. Add activities to the course.
 7. All activities will be displayed in the Moodle Test block.
+
+![image](https://github.com/vrajkulshrestha/Blocks/assets/30457191/a2fbbba7-ba89-45d6-b851-7662ebffca3a)
